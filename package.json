@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "react-native-baidu-locating@0.2.2",
+      "/Users/caixiaojia/Documents/MiShoppe"
+    ]
+  ],
+  "_from": "react-native-baidu-locating@0.2.2",
+  "_id": "react-native-baidu-locating@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha1-Bb8DavJlZlvPqSsmvb8XsJlnrnE=",
+  "_location": "/react-native-baidu-locating",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-baidu-locating@0.2.2",
+    "name": "react-native-baidu-locating",
+    "escapedName": "react-native-baidu-locating",
+    "rawSpec": "0.2.2",
+    "saveSpec": null,
+    "fetchSpec": "0.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-baidu-locating/-/react-native-baidu-locating-0.2.2.tgz",
+  "_spec": "0.2.2",
+  "_where": "/Users/caixiaojia/Documents/MiShoppe",
+  "author": {
+    "name": "Yuanfang Wang",
+    "email": "19593300@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/alanwyf/react-native-baidu-locating/issues"
+  },
+  "dependencies": {},
+  "description": "for baidu location7",
+  "homepage": "https://github.com/alanwyf/react-native-baidu-locating",
+  "keywords": [
+    "react-native",
+    "react",
+    "baidu",
+    "location",
+    "locating",
+    "GPS",
+    "map"
+  ],
+  "license": "MIT",
+  "name": "react-native-baidu-locating",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanwyf/react-native-baidu-locating.git"
+  },
+  "version": "0.2.2"
+}
